@@ -4,11 +4,11 @@ Infected Population, Recovery Time, Mortality Rate and the Tranmission Rate of t
 
 The parameters are set at the bottom of the covid, as follows:
 
-covid.n_susceptible = 500
-covid.n_quarantined = 50
-covid.n_infected = 10
-covid.cycles_to_fate = 1200
-covid.mortality_rate = 0.03
+covid.n_susceptible = 500,
+covid.n_quarantined = 50,
+covid.n_infected = 10,
+covid.cycles_to_fate = 1200,
+covid.mortality_rate = 0.03,
 covid.transmission_rate = 0.8
 
 Those parameters have been set to certain default values, however they can be modified in the code,
